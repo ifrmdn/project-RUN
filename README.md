@@ -1,3 +1,9 @@
+![image](https://github.com/user-attachments/assets/1f91c731-1ced-41ef-9c37-69847fd1799f)
+My game called RUN. It is a begginer maze game, you should drive the charcter to the end of the game.
+basically I chose this game because it is a biggener programmer level.
+MDN website helped me a lot : https://developer.mozilla.org/en-US/ , this youtube channel did too https://youtu.be/EN733Aq4ynM?si=7vQDOK9K_vuE7KPf .
+I hope this proggram teach me how to do a maze with multiple levels.
+
 // user stories:
 // As I user I want to see a background.
 // as i user i want to see a maze so i can play.
