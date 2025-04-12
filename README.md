@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1f91c731-1ced-41ef-9c37-69847fd1799f)
+![image](https://github.com/user-attachments/assets/64553c46-edb4-471d-9bf9-205ba23ae22c)
 My game called RUN. It is a begginer maze game, you should drive the charcter to the end of the game.
 basically I chose this game because it is a biggener programmer level.
 MDN website helped me a lot : https://developer.mozilla.org/en-US/ , this youtube channel did too https://youtu.be/EN733Aq4ynM?si=7vQDOK9K_vuE7KPf .
